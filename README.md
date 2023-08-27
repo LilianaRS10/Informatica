@@ -52,3 +52,7 @@ Turin, fue el creador de la computacion(maquina turin)
 *Consecuencias:* -Sustitucion de los humanos 
 
 -Perdida de los conocimientos adquiridos.
+
+**Referencias Bibliograficas**
+https://www.nationalgeographicla.com/ciencia/2023/06/quien-fue-alan-turing-pionero-en-el-desarrollo-de-la-inteligencia-artificial-y-la-computacion-moderna
+
