@@ -45,6 +45,8 @@ Turin, fue el creador de la computacion(maquina turin)
 **¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?**
 *Importancias:* -Son un medio de comunicacion 
 
+{Referencias bibliograficas}
+
 -Procesa informacion y datos de manera eficiente
 
 *Consecuencias:* -Sustitucion de los humanos 
