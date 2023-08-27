@@ -14,8 +14,7 @@ La necesida de uan computadora se dio a partir de la segunda guerra mundial para
 ![WhatsApp Image 2023-08-26 at 9 33 49 PM (2)](https://github.com/LilianaRS10/tarea1.1/assets/142177637/fa71ac83-91d2-4c90-b51f-a5bc33e21562)
 
 **Parte 2** **La curiosa Guerra de Alan Turin**
-![WhatsApp Image 2023-08-26 at 10 55 56 PM](https://github.com/LilianaRS10/tarea1.1/assets/142177637/b7a117fa-37e3-4443-b170-169ed4df00ee)
-
+![WhatsApp Image 2023-08-26 at 10 55 56 PM](https://github.com/LilianaRS10/tarea1.1/assets/142177637/b7a117fa-37e3-4443
 **Tarea 1.2**
 **Qué son las ciencias de la computación o computación como campo de conocimiento y como disciplina?**
 
