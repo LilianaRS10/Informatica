@@ -17,3 +17,20 @@ La necesida de uan computadora se dio a partir de la segunda guerra mundial para
 ![WhatsApp Image 2023-08-26 at 10 55 56 PM](https://github.com/LilianaRS10/tarea1.1/assets/142177637/b7a117fa-37e3-4443-b170-169ed4df00ee)
 
 **Tarea 1.2**
+Qué son las ciencias de la computación o computación como campo de conocimiento y como disciplina?
+Son un conjunto de disciplinas en las que su principal funcion es la comunicacion huana.
+
+¿Cuál es la diferencia entre computación, informática y tecnologías de la información y comunicación (TIC)?
+Informatica: Disciplina que se encarga del procesamiento y gestion de datos.
+
+Computacion: Rama de la informatica en el computo de algoritmos para la resolucion de problemas computacionales.
+
+TIC: Son un conjunto de herramientas tecnologicas que incrementan el proceso de datos y facilitan la comunicacion.
+
+Desde mi punto de vista considero que cada consepto ya unido hace de una disciplina, pues la informatica gestiona datos la computacion son algoritmos y la tecnologia alcanza un objetivo.
+
+¿Por qué se dice que la computadora es una máquina inteligente?
+Porque es lo mas cercano al razonamiento humano pues logra tomar deciciones y tambien resuelve problemas.
+¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?
+¿Quiénes fueron Alan Turing y John Von Newmann y cuáles fueron sus aportes a la creación de la computadora y a las ciencias de la computación?
+¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
