@@ -36,5 +36,7 @@ Desde mi punto de vista considero que cada consepto ya unido hace de una discipl
 Porque es lo mas cercano al razonamiento humano pues logra tomar deciciones y tambien resuelve problemas.
 
 **¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?**
-¿Quiénes fueron Alan Turing y John Von Newmann y cuáles fueron sus aportes a la creación de la computadora y a las ciencias de la computación?
-¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
+
+**¿Quiénes fueron Alan Turing y John Von Newmann y cuáles fueron sus aportes a la creación de la computadora y a las ciencias de la computación?**
+
+**¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?**
