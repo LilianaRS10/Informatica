@@ -56,7 +56,5 @@ Turin, fue el creador de la computacion(maquina turin)
 **Referencias Bibliograficas**
 National Geographic España. (2023, 25 agosto). National Geographic. https://nationalgeographicla.com/ciencia/2023/06/quien-fue-alan-turing-pionero-en-el-desarrollo-de-la-inteligencia-artificial-y-la-computacion-moderna
 
-https://www.nationalgeographicla.com/ciencia/2023/06/quien-fue-alan-turing-pionero-en-el-desarrollo-de-la-inteligencia-artificial-y-la-computacion-moderna
-
 Yahoo is part of the Yahoo family of brands. (s. f.). https://mx.video.search.yahoo.com/search/video;_ylt=AwrFcQySlutkGY8yYoTD8Qt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=alan+turin&fr2=piv-web&type=E211MX1274G0&fr=mcafee#id=25&vid=547ae1deaa99996f32134cf75d564cce&action=view
 
