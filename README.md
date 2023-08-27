@@ -28,7 +28,6 @@ Computacion: Rama de la informatica en el computo de algoritmos para la resoluci
 TIC: Son un conjunto de herramientas tecnologicas que incrementan el proceso de datos y facilitan la comunicacion.
 
 Desde mi punto de vista considero que cada consepto ya unido hace de una disciplina, pues la informatica gestiona datos la computacion son algoritmos y la tecnologia alcanza un objetivo.
-
 ¿Por qué se dice que la computadora es una máquina inteligente?
 Porque es lo mas cercano al razonamiento humano pues logra tomar deciciones y tambien resuelve problemas.
 ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?
