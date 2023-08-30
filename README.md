@@ -58,4 +58,4 @@ Yahoo is part of the Yahoo family of brands. (s. f.). https://mx.video.search.y
 
 "**Partes de una computadora***"
 
-<img src="https://github.com/LilianaRS10/Informatica/tree/main/imagenes" alt="PLANTAS" width="PORCENTAJE DE ANCHO %100"/>
+<img src="https://github.com/LilianaRS10/Informatica/blob/main/Hydrangeas.jpg" alt="PLANTAS" width="PORCENTAJE DE ANCHO %100"/>
