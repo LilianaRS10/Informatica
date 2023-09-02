@@ -65,4 +65,11 @@ Yahoo is part of the Yahoo family of brands. (s. f.). https://mx.video.search.y
 Una laptop
 ![WhatsApp Image 2023-08-27 at 5 32 00 PM](https://github.com/LilianaRS10/Informatica/assets/142177637/bf67eafd-458e-4109-8a6d-d60456091b50)
 
+Una computadora de escritorio
+![WhatsApp Image 2023-08-27 at 5 32 00 PM (3)](https://github.com/LilianaRS10/Informatica/assets/142177637/bb0efab6-96f0-47d0-ae7f-3cd42129f4c8)
 
+Un telefono celular
+![WhatsApp Image 2023-08-27 at 5 32 00 PM (1)](https://github.com/LilianaRS10/Informatica/assets/142177637/7dc5832b-1bd9-4bc7-9782-25eb14106f45)
+
+Una tablet 
+![WhatsApp Image 2023-08-27 at 5 32 00 PM (2)](https://github.com/LilianaRS10/Informatica/assets/142177637/9dc01978-6f36-4af1-85e3-9107fe812d3c)
