@@ -51,14 +51,18 @@ Turin, fue el creador de la computacion(maquina turin)
 
 -Perdida de los conocimientos adquiridos.
 
+**Reflexion**
+
+Considero que estos medios para buscar cualquier libro es de bastante utilidad porque en mi caso puedo e¡acceder a bastante informacion sin tener que pagar.
+Sin embargo tambien existen algunas desventajas por ejemplo que no logres encontrar algun libro de tu interes y tengas que acudir a otros recurson en donde no les den el credito al autor, es decir, que no sea legal.
 **Referencias Bibliograficas**
 National Geographic España. (2023, 25 agosto). National Geographic. https://nationalgeographicla.com/ciencia/2023/06/quien-fue-alan-turing-pionero-en-el-desarrollo-de-la-inteligencia-artificial-y-la-computacion-moderna
 
 Yahoo is part of the Yahoo family of brands. (s. f.). https://mx.video.search.yahoo.com/search/video;_ylt=AwrFcQySlutkGY8yYoTD8Qt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=alan+turin&fr2=piv-web&type=E211MX1274G0&fr=mcafee#id=25&vid=547ae1deaa99996f32134cf75d564cce&action=view
 
-"**Partes de una computadora***"
+**Tarea 1.3**"**Partes y funciones de computadoras modernas***"
 
-<img src="https://github.com/LilianaRS10/Informatica/blob/main/Hydrangeas.jpg" alt="PLANTAS" width="PORCENTAJE DE ANCHO %100"/>
+Una laptop
+![WhatsApp Image 2023-08-27 at 5 32 00 PM](https://github.com/LilianaRS10/Informatica/assets/142177637/bf67eafd-458e-4109-8a6d-d60456091b50)
 
-**Correo electronico:** [lr4059524@gmail.com](mailto:lr4059524@gmail.com)
 
