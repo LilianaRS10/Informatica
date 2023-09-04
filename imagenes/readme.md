@@ -11,3 +11,5 @@
 ![WhatsApp Image 2023-08-27 at 5 32 00 PM](https://github.com/LilianaRS10/Informatica/assets/142177637/c62da4ac-6da2-439b-99c1-3f0fb82e90e9)
 
 ![WhatsApp Image 2023-08-27 at 5 32 00 PM (3)](https://github.com/LilianaRS10/Informatica/assets/142177637/38f9dc36-4b38-4d49-8994-d49891c75b7c)
+
+![Gráfico Tabla Comparativa Marketing Moderno Verde](https://github.com/LilianaRS10/Informatica/assets/142177637/d137a56e-404d-40ea-a0d2-a29f97df5da9)
