@@ -77,14 +77,23 @@ Una tablet
 
 **Tabla comparativa**
 Desde mi punto de vista y de acuerdo a mi presupuesto considero que la laptop HP Chromebook x360 es una buena computadora portatil ya que cuenta con las especificaciones que necesito, en este caso para trabajos de la escuela.
+
 Algunas e las especificaciones son: 
+
 ºLa HP Chromebook x360 14c es una laptop convertible que pasa al modo tableta con un movimiento de giro y plegado, esto es posible gracias a la bisagra y el bloqueo recientemente rediseñados. 
+
 ºTiene una capacidad de gama alta para los videojuegos en caso de que esta sea utilizada con ese fin.
+
 Memoria: 8 GB 
+
 velocidades de transferencia de hasta 2666 MT/s
+
 Almacenamiento: eMMC de 64 GB
+
 Tecnología inalámbrica: Combo Intel WiFi 6 AX 201 (2x2) y Bluetooth 5 (compatible con velocidades de transferencia de archivos Gigabit) Compatible con MU-MIMO
+
 Batería: 3 celdas, 60,9 Wh de iones de litio con duración de 13,5 horas
+
 ![Gráfico Tabla Comparativa Marketing Moderno Verde](https://github.com/LilianaRS10/Informatica/assets/142177637/d46c2a19-a65f-4248-ab3e-6cf3a2ad720f)
 
 **Referencias Bibliograficas**
